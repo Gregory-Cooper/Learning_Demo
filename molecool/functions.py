@@ -1,6 +1,6 @@
 """
 functions.py
-A python package for analysizing and visualizing xyz files
+A python package for analysizing and visualizing xyz files test 123
 
 Handles the primary functions
 """
