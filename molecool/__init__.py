@@ -4,7 +4,8 @@ A python package for analysizing and visualizing xyz files
 """
 
 # Add imports here
-from .functions import calculate_distance
+from .functions import canvas
+from .functions import *
 
 # Handle versioneer
 from ._version import get_versions
