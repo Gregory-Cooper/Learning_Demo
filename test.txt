@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+New thing here idk we shall see
+ameria
+=======
 *******************
 something 
 *********************
@@ -7,3 +11,4 @@ I added this fime from clode
 ************
 end
 **********
+>>>>>>> d9426cc13acc030268d74edc78df0c30b2713951
