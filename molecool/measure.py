@@ -2,7 +2,7 @@
 new file of calcuations
 """
 import numpy as np
-
+import pytest
 def calculate_distance(rA, rB):
     # This function calculates the distance between two points given as numpy arrays.
     d=(rA-rB)
