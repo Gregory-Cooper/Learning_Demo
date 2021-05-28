@@ -10,8 +10,8 @@ dependencies:
   - pip
 
    # package depen
-   - numpy
-   - matplotlib
+  - numpy
+  - matplotlib
 
     # Testing
   - pytest
