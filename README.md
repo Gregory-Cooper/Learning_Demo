@@ -1,7 +1,7 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/workflows/CI/badge.svg)](https://github.com/Gregory-Cooper/molecool/actions?query=workflow%3ACI)
+[![GitHub Actions Build Status](https://github.com/Gregory-Cooper/molecool/workflows/CI/badge.svg)](https://github.com/Gregory-Cooper/molecool/actions?query=workflow%3ACI)
 [![codecov](https://codecov.io/gh/Gregory-Cooper/Learning_Demo/branch/main/graph/badge.svg?token=3XLFQIZ6BL)](https://codecov.io/gh/Gregory-Cooper/Learning_Demo)
 
 
